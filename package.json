@@ -1,0 +1,17 @@
+{
+  "name": "XD Nuker",
+  "version": "0.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "c0ld#9999",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord.js": "^13.1.0",
+    "readline": "^1.3.0"
+  }
+}
